@@ -1,2 +1,2 @@
 # hi pupsmb
-This is my new repository in Applications Development and Emerging Technologies
+This is every first repository in Applications Development and Emerging Technologies 
